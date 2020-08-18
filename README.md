@@ -32,8 +32,8 @@ Phylogenetic tree presented in Figure 6 reconstructed based on the reduced_super
 
 ## Transcriptome assembly
 
-**Polycarpa_mytiligera_transcriptome_assembly.zip**  
-Zipped transcriptome assembly of *Polycarpa mytiligera*. The transcriptome was assembled from Illumina reads using Trinity (v2.8.4). Fasta format.
+**Polycarpa_mytiligera_transcriptome_assembly_120.zip**  
+Zipped transcriptome assembly of *Polycarpa mytiligera*. The transcriptome was assembled from Illumina reads using Trinity (v2.8.4). Transcripts shorter than 120 bp were deleted. Fasta format.
 
 
 
