@@ -2,7 +2,7 @@
 
 
 **This repository contains supplemental materials from:**  
-Tal Gordon, Arnav Kumar Upadhyay, Lucia Manni, Dorothee Huchon, Noa Shenkar. Extreme regeneration capacity of the solitary ascidian Polycarpa mytiligera reveals its affinity to colonial species. Submitted.  
+Tal Gordon, Arnav Kumar Upadhyay, Lucia Manni, Dorothee Huchon, Noa Shenkar. And then there were three…: Extreme regeneration ability of the solitary chordate Polycarpa mytiligera. Accepted. Front. Cell Dev. Biol. | doi: 10.3389/fcell.2021.652466 
   
 *These datasets are based on data from Alié A, Hiebert LS, Simion P, et al. Convergent Acquisition of Nonembryonic Development in Styelid Ascidians. Mol Biol Evol. 2018;35(7):1728-1743. doi:10.1093/molbev/msy068.*
 
